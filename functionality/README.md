@@ -4,6 +4,7 @@
 
 - status updates / messages are broadcast to distinct groups of people
 - interacting with a status update joins you into the 'chat'
+- conversations become read-only after 24 hours (time frame should probably be driven by user behaviour when this is demoed)
 
 ## Friends
 
