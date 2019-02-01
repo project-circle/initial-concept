@@ -16,5 +16,6 @@
 - User can opt in to appear in friend suggestions (but these will be based on something e.g. same party, same gym. Not just, steve knows this guy)
 - Can sort friends into groups, friends can be in multiple groups
 - Somehow encourage groups based on subject (dota 2) and groups based on closeness (family, close friends etc)
+  - when a friendship is created, each user should be given the option to choose which `groups` the person should be placed in to.
 - Unfriend no longer see conversations started by them. But can still see messages from them in conversations started by someone else.
 - If someone is blocked you cant see messages from them or receive friend requests from them
