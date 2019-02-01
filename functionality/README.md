@@ -17,9 +17,9 @@
 - Can sort friends into groups, friends can be in multiple groups
 - Somehow encourage groups based on subject (dota 2) and groups based on closeness (family, close friends etc)
   - when a friendship is created, each user should be given the option to choose which `groups` the person should be placed in to.
+  - we can look to automate the `closeness` criteria based on number/frequency of interactions between two people.
 - Unfriend no longer see conversations started by them. But can still see messages from them in conversations started by someone else.
 - If someone is blocked you cant see messages from them or receive friend requests from them
-
 ## Problems
 
 - Conversation titles - When starting a conversation, the title (viewable by me) can be the name of the group so I know what its about. However when receiving conversations, what will the title appear as to me? Cant use the friends title and dont want to make them enter one. With no title, might be bad UI, to see what all your conversations are about. Auto tagging? or at least auto suggest tags on first open of conversation?
