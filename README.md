@@ -1,6 +1,4 @@
-# A document to store initial discussions
+# Project Circle
 
-## UI (a bit early, but important)
-
-- status updates / messages are broadcast to distinct groups of people
-- interacting with a status update joins you into the 'chat'
+[Basic Functionality](./functionality/README.md)
+[Tech Stack](./tech-stack/README.md)
