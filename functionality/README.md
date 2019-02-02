@@ -4,6 +4,7 @@
 
 - status updates / messages are broadcast to distinct groups of people
 - interacting with a status update joins you into the 'chat'
+  - if there are multiple people with the same first name in a chat, it will expand to show their last name, otherwise it will be first name only.
 - conversations become read-only after 24 hours (time frame should probably be driven by user behaviour when this is demoed)
 
 ## Friends
