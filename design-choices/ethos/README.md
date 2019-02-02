@@ -3,3 +3,4 @@
 - infrastructure as code
 - builds as code
 - microservice architecture
+- event sourcing
