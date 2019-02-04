@@ -13,6 +13,7 @@
 - New conversations can only include friends
 - People in the conversation dont have to be friends with each other, just the person who started it. 
 - Can see messages of non-friends in same conversation
+  - Need to think about maybe having this as an option, family might not approve of things friends say etc
 - Adding friends works with friend requests like FB (two party approval)
 - Friends can be added directly by email address (enter email, sends friend request to that user)
 - Users can opt in to appear in name searches
