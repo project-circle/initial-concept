@@ -1,6 +1,6 @@
 # Service list
 
-- Service names should be in the format of {domain}.{service-name}.
+Service names should be in the format of {domain}.{service-name}.
 
 - web client
 
@@ -14,9 +14,12 @@
 - user graph
 - user account
 - user timeline
+- user authorisation
+- user search
+
+- messaging
+- message search
 
 - notifications
-
-- messaging (likely an entire domain)
 
 
