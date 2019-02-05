@@ -15,4 +15,8 @@
 - user account
 - user timeline
 
+- notifications
+
+- messaging (likely an entire domain)
+
 
