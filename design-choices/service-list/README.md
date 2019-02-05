@@ -1,6 +1,6 @@
 # Service list
 
-Service names should be in the format of <domain>.<service-name>.
+- Service names should be in the format of {domain}.{service-name}.
 
 - web client
 
