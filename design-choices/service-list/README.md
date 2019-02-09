@@ -17,8 +17,12 @@ Service names should be in the format of {domain}.{service-name}.
 - user authorisation
 - user search
 
-- messaging
+- messaging api
+- message storage
 - message search
+- message routing (async)
+
+- websockets
 
 - notifications
 
